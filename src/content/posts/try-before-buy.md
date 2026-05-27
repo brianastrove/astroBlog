@@ -9,7 +9,7 @@ tags:
   - legal ai
 ---
 
-Baseball player and philosopher Yogi Berra said "if you don't know where you are going, you'll end up someplace else.” Adopting an AI product for a boutique law firm feels like this. (major publications) are calling for disruption to all legal practices. There are major product launches almost weekly. It's hard to know how the practice of law will change and what your clients will expect from you in the future. 
+Baseball player and philosopher Yogi Berra said "if you don't know where you are going, you'll end up someplace else.” Adopting an AI product for a boutique law firm feels like this. The New York Times is [calling](https://www.nytimes.com/2023/04/10/technology/ai-is-coming-for-lawyers-again.html) for disruption to the practice of law. There are major product launches almost weekly. It's hard to know how the practice of law will change and what your clients will expect from you in the future. 
 
 With such uncertainty and change, the first step must be to slow down. 
 
