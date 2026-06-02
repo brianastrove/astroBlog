@@ -2,7 +2,7 @@
 author: Brian Astrove
 pubDatetime: 2026-06-02T15:01:00Z
 title: You don't need $500M to build your firm's AI
-description:  
+description:  customized
 featured: false
 draft: false
 tags:
