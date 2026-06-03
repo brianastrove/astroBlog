@@ -2,9 +2,9 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "https://astroveadvisory.com",
     title: "Brian Astrove",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    description: "Asrtove Advisory",
     author: "Brian Astrove",
     ogImage: "default-og.jpg",
     lang: "en",
@@ -21,12 +21,17 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: true,
+      enabled: false,
       url: "https://github.com/satnaing/astro-paper/edit/main/",
     },
     search: "pagefind",
   },
   socials: [
     { name: "linkedin", url: "https://www.linkedin.com/in/bastrove/" },
+    /**
+    { name: "github", url: "https://github.com/satnaing/astro-paper" },
+    { name: "x", url: "https://x.com/username" },
+    { name: "mail", url: "mailto:yourmail@gmail.com" },
+      */
   ],
 });
