@@ -11,5 +11,5 @@ While I am a big fan of AI, I do not use it for my writing. Original words only.
 
 ## Work with me
 
-If you run a small professional-services firm in the DC area and you want help figuring out how AI actually fits in your business, get in touch. My LinkedIn is in the footer.
+If you run a small professional services firm and you want help figuring out how AI actually fits in your business, get in touch. My LinkedIn is in the footer.
 
