@@ -16,15 +16,15 @@ Fortunately, you do not need millions of dollars to build a custom AI platform. 
 
 Before going further, it's important to call out that you must use the enterprise plans, such as Claude Teams and ChatGPT Business. These plans have the security required for your client work and do not use your inputs to train the underlying models. The consumer versions are a different story and should not be used for client matters.
 
-There is much to gain by using a general AI tool like this instead of an out-of-the-box legal AI vendor.
+There is much to gain by using a general AI tool like this instead of an out-of-the-box legal-specific AI vendor.
 
-The most important near-term benefit is flexibility. The payment terms are monthly and a fraction of the cost of the out-of-the-box vendors who often require an upfront annual contract. Using these tools allows you to run small, time-boxed trials to validate your return on investment.
+The most important near-term benefit is flexibility. The payment terms are monthly and a fraction of the cost of the legal-specific vendors who often require an upfront annual contract. Using these tools allows you to run small, time-boxed trials to validate your return on investment.
 
 You can also use these customized versions for finance, HR, business development and other business processes. Other vendor tools restrict coverage to legal processes.
 
 The long-term benefits are equally significant.
 
-The pricing trajectory for the general AI tools is going in the opposite direction as the pricing for out of the box tools. OpenAI's CEO has [said](https://finance.yahoo.com/news/sam-altman-says-cost-using-041517310.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADmIlohGAZbqLAAwLUxS7SCILeuC9LiebaJ9te7Q2jGVQ8RdHBZSTr_DV4RX3hMriMqZ6_eO4d_Y9jRF4FoDyBUGE9wbk15w8zpvj6CH63QWQWTm9pz_0S5EeCg28muQAgKrAVNNxE6-Thjbm7P-sz1KEILQ5yjFEbX2CC-Hr6TB) costs are dropping 10x per year. Meanwhile, legal-specific AI vendors platforms are incentivized to increase prices over time. This process is well-documented by [Research Contract Consultants](https://researchcontract.com/why-your-competitor-pays-half-what-you-do-decoding-legal-research-ai-pricing/). They increase renewal fees and move features into higher pricing tiers to force upgrades. Expect this to continue.
+The pricing trajectory for the general AI tools is going in the opposite direction as the pricing for legal-specific tools. OpenAI's CEO has [said](https://finance.yahoo.com/news/sam-altman-says-cost-using-041517310.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADmIlohGAZbqLAAwLUxS7SCILeuC9LiebaJ9te7Q2jGVQ8RdHBZSTr_DV4RX3hMriMqZ6_eO4d_Y9jRF4FoDyBUGE9wbk15w8zpvj6CH63QWQWTm9pz_0S5EeCg28muQAgKrAVNNxE6-Thjbm7P-sz1KEILQ5yjFEbX2CC-Hr6TB) costs are dropping 10x per year. Meanwhile, legal-specific AI vendors platforms are incentivized to increase prices over time. This process is well-documented by [Research Contract Consultants](https://researchcontract.com/why-your-competitor-pays-half-what-you-do-decoding-legal-research-ai-pricing/). They increase renewal fees and move features into higher pricing tiers to force upgrades. Expect this to continue.
 
 You also gain a strategic advantage by owning your customizations. How you customize your tools becomes your institutional knowledge. By contrast, legal-specific AI platforms want to replicate your customizations for all their customers. If you build your own, you retain the know-how and you cement your differentiation from other firms.
 
