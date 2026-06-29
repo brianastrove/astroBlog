@@ -9,26 +9,26 @@ tags:
   - legal ai
 ---
 
-In a widely shared 1976 photograph, a row of legal secretaries sits at typewriters, transcribing from dictaphones and hand-written pages. For much of the twentieth century, that was how legal documents got made. A lawyer spoke. Someone else typed.
+AI is now doing to drafting what word processing did to typing in the 1990s. The implications for lawyers are surprisingly similar. These periods are not simply about adopting a transformative new technology; it's about how that technology changes client expectations, intensifies pressure on the billable hour, and becomes an unavoidable selling point for clients and recruits.
+
+Lets go back to the 90s. Lawyers relied on secretaries for word processing, often transcribing from a dictaphone or hand-written pages.
 
 ![secretaries](@/assets/images/secretaries.jpg) 
 
-Then personal computers landed on lawyers' desks, and the bottleneck disappeared. If a lawyer could type, there was no longer a secretarial pool standing between a thought and a finished page.
+Then personal computers and word processing software landed on lawyers desks. If lawyers could type, no longer was there a secretarial bottleneck to producing pages.
 
-It wasn't easy. Lawyers went to typing bootcamps, vendor trainings, and bar association courses. The in-house secretaries coached them. They learned to do their own formatting and spell-checking.
+But it wasn't easy. Lawyers attended typing bootcamps, vendor trainings, and bar association courses. They were coached by the in-house secretaries themselves. They learned to do their own formatting and spell-checking.
 
-And the job itself changed. What had been the secretaries' domain became a required skill for lawyers. More than that, it became an edge. Typing speed mapped directly to turnaround time and to how many matters a firm could carry.
+Over time, it became clear that what was previously the domain of secretaries, now became a required task for lawyers. More than that, it became an edge; typing speed directly correlated to turnaround time and volume of matters a firm could carry.
 
-The ripple effects followed. Clients raised their expectations for turnaround. Firms invested in the technology out of fear of losing work to faster competitors. New graduates arrived already fluent, expecting the computers they'd used in law school. The firms still built around the old structure became the slow ones. The firms that thrived adapted on three fronts at once: the technology, the culture, and the billing.
+The ripple effects followed. Clients increased their expectations for turnaround time. Firms invested in tech adoption out of terror of losing clients to more agile competitors. Law school graduates arrived to the job market expecting to use computers and word processing they learned in school. The firms built around the old structure became the slow ones. The firms that thrived adapted on three fronts at once: the technology, cultural change, and billing.
 
-That pattern is back.
+Fast forward to today. AI accelerates the speed of drafting and producing pages. Clients, especially in high-growth industries, already expect their firms to use it. Summer associates are asking permission to run their matters through it. And the billable hour is under pressure again.
 
-AI is now doing to drafting what word processing did to typing. It collapses the time it takes to produce pages. Clients in fast-moving industries already expect their firms to use it. Summer associates are asking permission to run their matters through it. And the billable hour is under pressure again.
-
-Thomson Reuters [found](https://institute.thomsonreuters.com/en/institute/future-of-professionals-2026/report) that 32% of corporate clients "have either already reconsidered their relationships with firms they feel are falling behind, or plan to do so within the next 12 months."
+Thomson Reuters [found](https://institute.thomsonreuters.com/en/institute/future-of-professionals-2026/report) 32% of corporate clients "have either already reconsidered their relationships with firms they feel are falling behind, or plan to do so within the next 12 months."
 
 So decide to be one of the firms that thrives. The 90s playbook still works.
 
-Start by measuring your turnaround today, so you can reset client expectations on purpose instead of having them reset for you. Onboard the tools. Train your team on the skills that actually matter, prompting and checking the output. Build rituals for sharing the prompts and workflows that work. And make it a requirement, not a perk for the curious.
+Start by measuring changes so you can proactively adjust client expectations. Onboard the tools. Train your team on the skills that matter, like prompting and output validation. Build rituals for sharing the prompts and processes that work. And make this a required skill, not an optional one.
 
 The firms that learned to type didn't just keep up. They set the pace everyone else had to match.
