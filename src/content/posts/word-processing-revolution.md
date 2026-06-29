@@ -9,7 +9,7 @@ tags:
   - legal ai
 ---
 
-In a widely shared 1976 photograph, a row of legal secretaries sits at typewriters, headphones on, transcribing from dictaphones. For most of the twentieth century, that was how legal documents got made. A lawyer spoke. Someone else typed.
+In a widely shared 1976 photograph, a row of legal secretaries sits at typewriters, transcribing from dictaphones and hand-written pages. For much of the twentieth century, that was how legal documents got made. A lawyer spoke. Someone else typed.
 
 ![secretaries](@/assets/images/secretaries.jpg) 
 
