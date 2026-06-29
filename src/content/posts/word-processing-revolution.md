@@ -1,6 +1,6 @@
 ---
 author: Brian Astrove
-pubDatetime: 2026-06-28T20:40:08Z
+pubDatetime: 2026-06-27T18:40:08
 title: The Return of the Word Processing Revolution
 description:  Patterns
 featured: false
@@ -11,7 +11,7 @@ tags:
 
 In a widely shared 1976 photograph, a row of legal secretaries sits at typewriters, headphones on, transcribing from dictaphones. For most of the twentieth century, that was how legal documents got made. A lawyer spoke. Someone else typed.
 
-![[secretaries.jpg]]
+![secretaries](@/assets/images/secretaries.jpg) 
 
 Then personal computers landed on lawyers' desks, and the bottleneck disappeared. If a lawyer could type, there was no longer a secretarial pool standing between a thought and a finished page.
 
